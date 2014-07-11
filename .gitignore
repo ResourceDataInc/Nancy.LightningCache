@@ -6,7 +6,9 @@ obj
 _ReSharper.Nancy.LightningCache
 
 #other
-Nancy.LightningCache.v11.suo
+*.suo
 
 # mstest test results
 TestResults
+
+packages
